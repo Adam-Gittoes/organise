@@ -1,0 +1,25 @@
+body {
+	background-color: #FFFFFF;
+}
+
+header {
+	padding: 10px;
+	background-color: #505050;
+	font-size: 4em;
+	font-weight: bold;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+nav {
+	background-color: #F0F0F0;
+
+}
+
+main {
+
+}
+
+footer {
+	background-color: #505050;
+}
